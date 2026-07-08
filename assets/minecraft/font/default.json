@@ -1,5 +1,18 @@
 {
     "providers": [
-
+        {
+            "type": "bitmap", 
+            "file": "icons/level_icons.png", 
+            "height": 9, 
+            "ascent": 0,
+            "chars": ["\ue000\ue001\ue002\ue003\ue004\ue005\ue006\ue007\ue008\ue009"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "icons/shop_icons.png", 
+            "height": 9, 
+            "ascent": 0,
+            "chars": ["\ue010\ue011\ue012"]
+        }
     ]
 }

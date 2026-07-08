@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stick"
+        },
+        "cases": [
+            {"when": "affordable_upgrade", "model":   {"type": "model", "model": "item/gui/upgrade/affordable_upgrade"}},
+            {"when": "unaffordable_upgrade", "model": {"type": "model", "model": "item/gui/upgrade/unaffordable_upgrade"}}
+        ]
+    }
+}
