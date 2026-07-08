@@ -7,7 +7,7 @@
             "model": "item/bone"
         },
         "cases": [
-            {"when": "affordable_upgrade", "model":   {"type": "model", "model": "item/gui/upgrade/affordable_upgrade"}},
+            {"when": "affordable_upgrade",   "model": {"type": "model", "model": "item/gui/upgrade/affordable_upgrade"}},
             {"when": "unaffordable_upgrade", "model": {"type": "model", "model": "item/gui/upgrade/unaffordable_upgrade"}}
         ]
     }

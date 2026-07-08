@@ -13,6 +13,20 @@
             "height": 9, 
             "ascent": 8,
             "chars": ["\ue010\ue011\ue012"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "icons/gold.png", 
+            "height": 9, 
+            "ascent": 8,
+            "chars": ["\ue013"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "icons/hyperium.png", 
+            "height": 9, 
+            "ascent": 8,
+            "chars": ["\ue014\ue015"]
         }
     ]
 }
