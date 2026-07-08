@@ -1,0 +1,33 @@
+name: resource_pack
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Compress assets
+        run: |
+          zip -r /tmp/pack.zip . -x "*.git*" -x ".github/*"
+
+      - name: Push to public branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan temp-branch
+          git rm -rf .
+          mv /tmp/pack.zip pack.zip
+          git add pack.zip
+          git commit -m "Update pack.zip"
+          git push -f origin temp-branch:public
