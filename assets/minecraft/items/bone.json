@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/stick"
+            "model": "item/bone"
         },
         "cases": [
             {"when": "affordable_upgrade", "model":   {"type": "model", "model": "item/gui/upgrade/affordable_upgrade"}},
