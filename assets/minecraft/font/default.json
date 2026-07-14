@@ -27,6 +27,13 @@
             "height": 9, 
             "ascent": 8,
             "chars": ["\ue014\ue015"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "icons/hat.png", 
+            "height": 8, 
+            "ascent": 7,
+            "chars": ["👒"]
         }
     ]
 }
