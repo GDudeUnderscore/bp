@@ -9,38 +9,38 @@
         },
         {
             "type": "bitmap", 
-            "file": "icons/shop_icons.png", 
+            "file": "icons/keys.png", 
             "height": 9, 
             "ascent": 8,
-            "chars": ["\ue010\ue011\ue012"]
+            "chars": ["\ue100\ue101\ue102\ue103\ue104\ue105\ue106\ue107\ue108\ue109\ue10a\ue10b\ue10c\ue10d"]
         },
         {
             "type": "bitmap", 
             "file": "icons/gold.png", 
             "height": 9, 
             "ascent": 8,
-            "chars": ["\ue013"]
+            "chars": ["\ue200"]
         },
         {
             "type": "bitmap", 
             "file": "icons/hyperium.png", 
             "height": 9, 
             "ascent": 8,
-            "chars": ["\ue014\ue015"]
+            "chars": ["\ue201\ue202"]
         },
         {
             "type": "bitmap", 
             "file": "icons/gps.png", 
             "height": 9, 
             "ascent": 8,
-            "chars": ["\ue016"]
+            "chars": ["\ue203"]
         },
         {
             "type": "bitmap", 
             "file": "icons/players.png", 
             "height": 9, 
             "ascent": 8,
-            "chars": ["\ue017"]
+            "chars": ["\ue204"]
         },
         {
             "type": "bitmap", 
