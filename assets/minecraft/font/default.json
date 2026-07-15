@@ -30,6 +30,13 @@
         },
         {
             "type": "bitmap", 
+            "file": "icons/gps.png", 
+            "height": 9, 
+            "ascent": 8,
+            "chars": ["\ue016"]
+        },
+        {
+            "type": "bitmap", 
             "file": "icons/hat.png", 
             "height": 8, 
             "ascent": 7,
