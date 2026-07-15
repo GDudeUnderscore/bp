@@ -37,6 +37,13 @@
         },
         {
             "type": "bitmap", 
+            "file": "icons/players.png", 
+            "height": 9, 
+            "ascent": 8,
+            "chars": ["\ue017"]
+        },
+        {
+            "type": "bitmap", 
             "file": "icons/hat.png", 
             "height": 8, 
             "ascent": 7,
