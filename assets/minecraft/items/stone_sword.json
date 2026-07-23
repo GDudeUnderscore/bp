@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_sword"
+        },
+        "cases": [
+            {"when": "cobblestone_sword", "model": {"type": "model", "model": "item/pickaxes/cobblestone_sword"}}
+        ]
+    }
+}
