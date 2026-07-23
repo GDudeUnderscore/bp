@@ -7,7 +7,8 @@
             "model": "item/stone_sword"
         },
         "cases": [
-            {"when": "cobblestone_sword", "model": {"type": "model", "model": "item/swords/cobblestone_sword"}}
+            {"when": "cobblestone_sword", "model": {"type": "model", "model": "item/swords/cobblestone_sword"}},
+            {"when": "lament", "model": {"type": "model", "model": "item/swords/lament"}}
         ]
     }
 }
