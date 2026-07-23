@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_spear"
+        },
+        "cases": [
+            {"when": "flint_spear", "model": {"type": "model", "model": "item/spears/flint_spear"}}
+        ]
+    }
+}
