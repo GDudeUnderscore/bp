@@ -7,7 +7,8 @@
             "model": "item/wooden_sword"
         },
         "cases": [
-            {"when": "wooden_sword", "model": {"type": "model", "model": "item/swords/wooden_sword"}}
+            {"when": "wooden_sword", "model": {"type": "model", "model": "item/swords/wooden_sword"}},
+            {"when": "kelpy_cutlass", "model": {"type": "model", "model": "item/swords/kelpy_cutlass"}}
         ]
     }
 }
