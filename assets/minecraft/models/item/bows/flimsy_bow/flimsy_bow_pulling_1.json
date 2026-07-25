@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bows/flimsy_bow/flimsy_bow_pulling_1"
+    }
+}
