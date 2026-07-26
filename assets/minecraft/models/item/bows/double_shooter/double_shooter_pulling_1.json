@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "item/bows/double_shooter/double_shooter_pulling_1"
+    }
+}
