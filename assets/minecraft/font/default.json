@@ -1,53 +1,44 @@
 {
     "providers": [
         {
-            "type": "bitmap", 
-            "file": "icons/level_icons.png", 
-            "height": 9, 
-            "ascent": 8,
+            "type": "bitmap", "file": "icons/general/level_icons.png", 
+            "height": 9, "ascent": 8,
             "chars": ["\ue000\ue001\ue002\ue003\ue004\ue005\ue006\ue007\ue008\ue009\ue00a"]
         },
         {
-            "type": "bitmap", 
-            "file": "icons/keys.png", 
-            "height": 9, 
-            "ascent": 8,
+            "type": "bitmap", "file": "icons/general/keys.png", 
+            "height": 9, "ascent": 8,
             "chars": ["\ue100\ue101\ue102\ue103\ue104\ue105\ue106\ue107\ue108\ue109\ue10a\ue10b\ue10c\ue10d"]
         },
         {
-            "type": "bitmap", 
-            "file": "icons/gold.png", 
-            "height": 9, 
-            "ascent": 8,
+            "type": "bitmap", "file": "icons/general/gold.png", 
+            "height": 9, "ascent": 8,
             "chars": ["\ue200"]
         },
         {
-            "type": "bitmap", 
-            "file": "icons/hyperium.png", 
-            "height": 9, 
-            "ascent": 8,
+            "type": "bitmap", "file": "icons/general/hyperium.png", 
+            "height": 9, "ascent": 8,
             "chars": ["\ue201\ue202"]
         },
         {
-            "type": "bitmap", 
-            "file": "icons/gps.png", 
-            "height": 9, 
-            "ascent": 8,
+            "type": "bitmap", "file": "icons/general/gps.png", 
+            "height": 9, "ascent": 8,
             "chars": ["\ue203"]
         },
         {
-            "type": "bitmap", 
-            "file": "icons/players.png", 
-            "height": 9, 
-            "ascent": 8,
+            "type": "bitmap", "file": "icons/general/players.png", 
+            "height": 9, "ascent": 8,
             "chars": ["\ue204"]
         },
         {
-            "type": "bitmap", 
-            "file": "icons/hat.png", 
-            "height": 8, 
-            "ascent": 7,
-            "chars": ["👒"]
+            "type": "bitmap", "file": "icons/item_icons/hat.png", 
+            "height": 8, "ascent": 7,
+            "chars": ["\ue300"]
+        },
+        {
+            "type": "bitmap", "file": "icons/effect_icons/wounded.png", 
+            "height": 7, "ascent": 6,
+            "chars": ["\ue400"]
         }
     ]
 }
