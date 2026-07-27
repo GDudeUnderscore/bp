@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_axe"
+        },
+        "cases": [
+            {"when": "skull_crusher", "model": {"type": "model", "model": "item/axes/skull_crusher"}}
+        ]
+    }
+}

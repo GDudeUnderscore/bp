@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_spear"
+        },
+        "cases": [
+            {"when": "speed_spear", "model": {"type": "model", "model": "item/spears/speed_spear"}}
+        ]
+    }
+}
