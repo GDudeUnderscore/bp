@@ -7,7 +7,8 @@
             "model": "item/stone_spear"
         },
         "cases": [
-            {"when": "flint_spear", "model": {"type": "model", "model": "item/spears/flint_spear"}}
+            {"when": "flint_spear", "model": {"type": "model", "model": "item/spears/flint_spear"}},
+            {"when": "stonespike", "model": {"type": "model", "model": "item/spears/stonespike"}}
         ]
     }
 }
