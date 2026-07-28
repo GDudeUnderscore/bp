@@ -39,6 +39,11 @@
             "type": "bitmap", "file": "icons/effect_icons/wounded.png", 
             "height": 7, "ascent": 7,
             "chars": ["\ue400"]
+        },
+        {
+            "type": "bitmap", "file": "icons/effect_icons/bleed.png", 
+            "height": 7, "ascent": 7,
+            "chars": ["\ue401"]
         }
     ]
 }
