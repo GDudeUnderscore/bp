@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "particle": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_top",
+        "down": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_bottom",
+        "up": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_top",
+        "north": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_front_back",
+        "east": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_east",
+        "south": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_front_back",
+        "west": "minecraft:block/magenta_glazed_terracotta/magenta_glazed_terracotta_west"
+    }
+}
