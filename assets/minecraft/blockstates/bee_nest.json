@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=north,honey_level=0": { "y": 0, "model": "block/bee_nest_empty" },
+        "facing=north,honey_level=4": { "y": 0, "model": "block/bee_nest_half_honey" },
+        "facing=north,honey_level=5": { "y": 0, "model": "block/bee_nest_honey" },
+
+        "facing=east,honey_level=0":  { "y": 90, "model": "block/bee_nest_empty" },
+        "facing=east,honey_level=4":  { "y": 90, "model": "block/bee_nest_half_honey" },
+        "facing=east,honey_level=5":  { "y": 90, "model": "block/bee_nest_honey" },
+
+        "facing=south,honey_level=0": { "y": 180, "model": "block/bee_nest_empty" },
+        "facing=south,honey_level=4": { "y": 180, "model": "block/bee_nest_half_honey" },
+        "facing=south,honey_level=5": { "y": 180, "model": "block/bee_nest_honey" },
+
+        "facing=west,honey_level=0":  { "y": 270, "model": "block/bee_nest_empty" },
+        "facing=west,honey_level=4":  { "y": 270 ,"model": "block/bee_nest_half_honey" },
+        "facing=west,honey_level=5":  { "y": 270, "model": "block/bee_nest_honey" }
+    }
+}
