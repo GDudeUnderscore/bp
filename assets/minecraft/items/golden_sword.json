@@ -7,7 +7,8 @@
             "model": "item/golden_sword"
         },
         "cases": [
-            {"when": "hellfire", "model": {"type": "model", "model": "item/swords/hellfire"}}
+            {"when": "hellfire", "model": {"type": "model", "model": "item/swords/hellfire"}},
+            {"when": "swift_katana", "model": {"type": "model", "model": "item/swords/swift_katana"}}
         ]
     }
 }
