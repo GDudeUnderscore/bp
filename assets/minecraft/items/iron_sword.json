@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "iron_cutlass", "model": {"type": "model", "model": "item/swords/iron_cutlass"}},
-            {"when": "steel_katana", "model": {"type": "model", "model": "item/swords/steel_katana"}}
+            {"when": "steel_katana", "model": {"type": "model", "model": "item/swords/steel_katana"}},
+            {"when": "icicle", "model": {"type": "model", "model": "item/swords/icicle"}}
         ]
     }
 }
