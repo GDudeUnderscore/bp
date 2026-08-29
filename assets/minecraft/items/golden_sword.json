@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "hellfire", "model": {"type": "model", "model": "item/swords/hellfire"}},
-            {"when": "swift_katana", "model": {"type": "model", "model": "item/swords/swift_katana"}}
+            {"when": "swift_katana", "model": {"type": "model", "model": "item/swords/swift_katana"}},
+            {"when": "thundral", "model": {"type": "model", "model": "item/swords/thundral"}}
         ]
     }
 }
