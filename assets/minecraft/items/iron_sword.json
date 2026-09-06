@@ -4,12 +4,13 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/iron_sword"
+            "model": "item/sacrificial_dagger"
         },
         "cases": [
-            {"when": "iron_cutlass", "model": {"type": "model", "model": "item/swords/iron_cutlass"}},
-            {"when": "steel_katana", "model": {"type": "model", "model": "item/swords/steel_katana"}},
-            {"when": "icicle", "model": {"type": "model", "model": "item/swords/icicle"}}
+            {"when": "iron_cutlass",       "model": {"type": "model", "model": "item/swords/iron_cutlass"}},
+            {"when": "steel_katana",       "model": {"type": "model", "model": "item/swords/steel_katana"}},
+            {"when": "sacrificial_dagger", "model": {"type": "model", "model": "item/swords/sacrificial_dagger"}},
+            {"when": "icicle",             "model": {"type": "model", "model": "item/swords/icicle"}}
         ]
     }
 }
