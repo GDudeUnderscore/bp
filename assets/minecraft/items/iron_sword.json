@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/sacrificial_dagger"
+            "model": "item/iron_sword"
         },
         "cases": [
             {"when": "iron_cutlass",       "model": {"type": "model", "model": "item/swords/iron_cutlass"}},
