@@ -84,5 +84,22 @@
   "block.minecraft.banner.flames.purple": "Purple Flames",
   "block.minecraft.banner.flames.red": "Red Flames",
   "block.minecraft.banner.flames.white": "White Flames",
-  "block.minecraft.banner.flames.yellow": "Yellow Flames"
+  "block.minecraft.banner.flames.yellow": "Yellow Flames",
+
+  "block.minecraft.banner.beam.black": "Black Beam",
+  "block.minecraft.banner.beam.blue": "Blue Beam",
+  "block.minecraft.banner.beam.brown": "Brown Beam",
+  "block.minecraft.banner.beam.cyan": "Cyan Beam",
+  "block.minecraft.banner.beam.gray": "Gray Beam",
+  "block.minecraft.banner.beam.green": "Green Beam",
+  "block.minecraft.banner.beam.light_blue": "Light Blue Beam",
+  "block.minecraft.banner.beam.light_gray": "Light Gray Beam",
+  "block.minecraft.banner.beam.lime": "Lime Beam",
+  "block.minecraft.banner.beam.magenta": "Magenta Beam",
+  "block.minecraft.banner.beam.orange": "Orange Beam",
+  "block.minecraft.banner.beam.pink": "Pink Beam",
+  "block.minecraft.banner.beam.purple": "Purple Beam",
+  "block.minecraft.banner.beam.red": "Red Beam",
+  "block.minecraft.banner.beam.white": "White Beam",
+  "block.minecraft.banner.beam.yellow": "Yellow Beam"
 }
