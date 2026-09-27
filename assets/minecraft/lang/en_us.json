@@ -118,5 +118,22 @@
   "block.minecraft.banner.golden_glitter.purple": "Purple Golden Glitter",
   "block.minecraft.banner.golden_glitter.red": "Red Golden Glitter",
   "block.minecraft.banner.golden_glitter.white": "White Golden Glitter",
-  "block.minecraft.banner.golden_glitter.yellow": "Yellow Golden Glitter"
+  "block.minecraft.banner.golden_glitter.yellow": "Yellow Golden Glitter",
+
+  "block.minecraft.banner.aurora.black": "Black Aurora",
+  "block.minecraft.banner.aurora.blue": "Blue Aurora",
+  "block.minecraft.banner.aurora.brown": "Brown Aurora",
+  "block.minecraft.banner.aurora.cyan": "Cyan Aurora",
+  "block.minecraft.banner.aurora.gray": "Gray Aurora",
+  "block.minecraft.banner.aurora.green": "Green Aurora",
+  "block.minecraft.banner.aurora.light_blue": "Light Blue Aurora",
+  "block.minecraft.banner.aurora.light_gray": "Light Gray Aurora",
+  "block.minecraft.banner.aurora.lime": "Lime Aurora",
+  "block.minecraft.banner.aurora.magenta": "Magenta Aurora",
+  "block.minecraft.banner.aurora.orange": "Orange Aurora",
+  "block.minecraft.banner.aurora.pink": "Pink Aurora",
+  "block.minecraft.banner.aurora.purple": "Purple Aurora",
+  "block.minecraft.banner.aurora.red": "Red Aurora",
+  "block.minecraft.banner.aurora.white": "White Aurora",
+  "block.minecraft.banner.aurora.yellow": "Yellow Aurora"
 }
