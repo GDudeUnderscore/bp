@@ -1,5 +1,6 @@
 {
     "providers": [
+
         {
             "type": "bitmap", "file": "icons/general/level_icons.png", 
             "height": 9, "ascent": 8,
@@ -30,11 +31,13 @@
             "height": 9, "ascent": 8,
             "chars": ["\ue204"]
         },
+
         {
             "type": "bitmap", "file": "icons/item_icons/hat.png", 
             "height": 8, "ascent": 7,
             "chars": ["\ue300"]
         },
+
         {
             "type": "bitmap", "file": "icons/effect_icons/wounded.png", 
             "height": 7, "ascent": 7,
@@ -44,6 +47,12 @@
             "type": "bitmap", "file": "icons/effect_icons/bleed.png", 
             "height": 7, "ascent": 7,
             "chars": ["\ue401"]
+        },
+
+        {
+            "type": "bitmap", "file": "icons/badges/badges.png", 
+            "height": 10, "ascent": 9,
+            "chars": ["\ue500\ue501\ue502\ue503\ue504\ue505\ue506\ue507\ue508\ue509\ue50a\ue50b\ue50c\ue50d\ue50e\ue50f\ue510\ue511\ue512\ue513\ue514\ue515\ue516\ue517\ue518\ue519\ue51a\ue51b\ue51c\ue51d"]
         }
     ]
 }
