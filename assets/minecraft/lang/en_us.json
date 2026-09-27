@@ -135,5 +135,22 @@
   "block.minecraft.banner.aurora.purple": "Purple Aurora",
   "block.minecraft.banner.aurora.red": "Red Aurora",
   "block.minecraft.banner.aurora.white": "White Aurora",
-  "block.minecraft.banner.aurora.yellow": "Yellow Aurora"
+  "block.minecraft.banner.aurora.yellow": "Yellow Aurora",
+
+  "block.minecraft.banner.flawless.black": "Black Flawless",
+  "block.minecraft.banner.flawless.blue": "Blue Flawless",
+  "block.minecraft.banner.flawless.brown": "Brown Flawless",
+  "block.minecraft.banner.flawless.cyan": "Cyan Flawless",
+  "block.minecraft.banner.flawless.gray": "Gray Flawless",
+  "block.minecraft.banner.flawless.green": "Green Flawless",
+  "block.minecraft.banner.flawless.light_blue": "Light Blue Flawless",
+  "block.minecraft.banner.flawless.light_gray": "Light Gray Flawless",
+  "block.minecraft.banner.flawless.lime": "Lime Flawless",
+  "block.minecraft.banner.flawless.magenta": "Magenta Flawless",
+  "block.minecraft.banner.flawless.orange": "Orange Flawless",
+  "block.minecraft.banner.flawless.pink": "Pink Flawless",
+  "block.minecraft.banner.flawless.purple": "Purple Flawless",
+  "block.minecraft.banner.flawless.red": "Red Flawless",
+  "block.minecraft.banner.flawless.white": "White Flawless",
+  "block.minecraft.banner.flawless.yellow": "Yellow Flawless"
 }
