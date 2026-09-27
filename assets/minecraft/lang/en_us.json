@@ -101,5 +101,22 @@
   "block.minecraft.banner.beam.purple": "Purple Beam",
   "block.minecraft.banner.beam.red": "Red Beam",
   "block.minecraft.banner.beam.white": "White Beam",
-  "block.minecraft.banner.beam.yellow": "Yellow Beam"
+  "block.minecraft.banner.beam.yellow": "Yellow Beam",
+
+  "block.minecraft.banner.golden_glitter.black": "Black Golden Glitter",
+  "block.minecraft.banner.golden_glitter.blue": "Blue Golden Glitter",
+  "block.minecraft.banner.golden_glitter.brown": "Brown Golden Glitter",
+  "block.minecraft.banner.golden_glitter.cyan": "Cyan Golden Glitter",
+  "block.minecraft.banner.golden_glitter.gray": "Gray Golden Glitter",
+  "block.minecraft.banner.golden_glitter.green": "Green Golden Glitter",
+  "block.minecraft.banner.golden_glitter.light_blue": "Light Blue Golden Glitter",
+  "block.minecraft.banner.golden_glitter.light_gray": "Light Gray Golden Glitter",
+  "block.minecraft.banner.golden_glitter.lime": "Lime Golden Glitter",
+  "block.minecraft.banner.golden_glitter.magenta": "Magenta Golden Glitter",
+  "block.minecraft.banner.golden_glitter.orange": "Orange Golden Glitter",
+  "block.minecraft.banner.golden_glitter.pink": "Pink Golden Glitter",
+  "block.minecraft.banner.golden_glitter.purple": "Purple Golden Glitter",
+  "block.minecraft.banner.golden_glitter.red": "Red Golden Glitter",
+  "block.minecraft.banner.golden_glitter.white": "White Golden Glitter",
+  "block.minecraft.banner.golden_glitter.yellow": "Yellow Golden Glitter"
 }
