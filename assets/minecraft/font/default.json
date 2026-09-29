@@ -31,6 +31,11 @@
             "height": 9, "ascent": 8,
             "chars": ["\ue204"]
         },
+        {
+            "type": "bitmap", "file": "icons/general/stone_pickaxe.png", 
+            "height": 9, "ascent": 8,
+            "chars": ["\ue205"]
+        },
 
         {
             "type": "bitmap", "file": "icons/item_icons/hat.png", 
