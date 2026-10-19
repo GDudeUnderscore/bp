@@ -1,0 +1,15 @@
+{
+    "music.egg_hunt":                 { "sounds": [{ "name": "bannerfall:egg_hunt",                 "stream": true }]},
+
+    "music.cafe.acid_trumpet":        { "sounds": [{ "name": "bannerfall:cafe/acid_trumpet",        "stream": true }]},
+    "music.cafe.moseni_lotus":        { "sounds": [{ "name": "bannerfall:cafe/moseni_lotus",        "stream": true }]},
+    "music.cafe.coiffure_clips":      { "sounds": [{ "name": "bannerfall:cafe/coiffure_clips",      "stream": true }]},
+    "music.cafe.goin_back_to_kansas": { "sounds": [{ "name": "bannerfall:cafe/goin_back_to_kansas", "stream": true }]},
+    "music.cafe.flower_shop":         { "sounds": [{ "name": "bannerfall:cafe/flower_shop",         "stream": true }]},
+    "music.cafe.hip_shop":            { "sounds": [{ "name": "bannerfall:cafe/hip_shop",            "stream": true }]},
+    "sound.cafe.static":              { "sounds": [{ "name": "bannerfall:cafe/static",              "stream": true }]},
+
+    "music.boss.before_boss_loop":    { "sounds": [{ "name": "bannerfall:boss/before_boss_loop",    "stream": true }]},
+    "sound.boss.normal_completion":   { "sounds": [{ "name": "bannerfall:boss/normal_completion",   "stream": true }]},
+    "sound.boss.s_completion":        { "sounds": [{ "name": "bannerfall:boss/s_completion",        "stream": true }]}
+}
