@@ -63,7 +63,7 @@
         {
             "type": "bitmap", "file": "icons/hyperlevel/hyperlevel.png", 
             "height": 10, "ascent": 9,
-            "chars": ["\ue600\ue601\ue602\ue603\ue604\ue605\ue606\ue607\ue608\ue609\ue60a"]
+            "chars": ["\ue600\ue601\ue602\ue603\ue604\ue605\ue606\ue607\ue608\ue609"]
         }
     ]
 }
